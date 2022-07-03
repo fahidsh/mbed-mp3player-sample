@@ -31,3 +31,5 @@ DFPlayer Mini MP3 Player is connected to the following pins on my L152RE board:
 - RX: PC_11 (1k resister is used between L152RE-TX and DFPlayer-RX)
 - VCC: 5V (support 3.3v to 5v, recommended 4.3v)
 - GND: GND
+### Cabeling
+[![dfplayer.jpg](https://i.postimg.cc/k5BqLDkR/dfplayer.jpg)](https://postimg.cc/WDLBkpps)
